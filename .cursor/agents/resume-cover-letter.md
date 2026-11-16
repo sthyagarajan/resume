@@ -18,4 +18,4 @@ Voice: Sunder Thyagarajan, Senior Engineering Manager. Concrete products, scope,
 
 If the verdict is Poor because the core work is absent, keep the letter under 180 words and claim only the real overlap. Do not argue that he has the missing core.
 
-Save the letter as `<output directory>/cover-letter.md` with no preamble. Return the same letter in your final message, and the saved path. Do not modify `Sunder-Thyagarajan-Resume.pdf`, `resume-print.html`, or `index.html`.
+Return the letter in your final message. Write `<output directory>/cover-letter.md` only when the prompt gives an output directory and tells you to save. Do not modify `Sunder-Thyagarajan-Resume.pdf`, `resume-print.html`, or `index.html`.

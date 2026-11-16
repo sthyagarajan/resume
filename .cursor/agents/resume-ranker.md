@@ -80,7 +80,7 @@ Return this markdown and nothing else:
 [Real experience written in different language. One truthful phrase per item.]
 
 ## Rewrite opportunities
-[Up to five. Omit this section's items when the verdict is Poor or Stretch because the core work is absent, and say that wording will not fix it.]
+[Up to five truthful emphasis changes for Buried or Partial matches, including when the verdict is Stretch or Poor. For a gap wording cannot close, name it here and do not propose a sentence.]
 
 - Target: summary, skill label, or bullet
 - Serves: requirement
